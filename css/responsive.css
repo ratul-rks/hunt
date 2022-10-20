@@ -1,0 +1,27 @@
+@media (max-width:575px){
+    .banner_text h4 {
+        font-size: 22px;
+    }
+    .banner_text h3 {
+        font-size: 38px;
+        padding-top: 10px;
+        padding-bottom: 15px;
+    }
+    .banner_text {
+        top: 100px;
+    }
+    .banner_text p {
+        width: 320px;
+        padding-bottom: 30px;
+    }
+    .banner_img{
+        padding-bottom: 110px;
+        }
+       
+
+
+
+
+
+
+}
